@@ -1,3 +1,7 @@
 .card{
 	display: inline-block;
 }
+
+.badge{
+	font-size: 22px;
+}
